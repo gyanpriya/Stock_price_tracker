@@ -3,7 +3,7 @@ import time
 from prettytable import PrettyTable
 
 # Alpha Vantage API setup
-API_KEY = "SSVR46MMIBVDBT1X"
+API_KEY = "*******************"
 BASE_URL = "https://www.alphavantage.co/query"
 
 def get_stock_price(symbol):
